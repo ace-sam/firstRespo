@@ -30,4 +30,27 @@
 "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Eo_circle_orange_blank.svg/2048px-Eo_circle_orange_blank.svg.png",
 "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ski_trail_rating_symbol-green_circle.svg/1200px-Ski_trail_rating_symbol-green_circle.svg.png"
   ]
+  
+  "MoreApps":[
+  {
+    "title":"App N1",
+    "ImageLink":"https://play-lh.googleusercontent.com/p6kS3dCcILt9Z4vRMxHXZTbRecqnZTx5ysBVp6Qe3fDofokRLuWjRxF8J0TkMTG2gKo",
+    "AppPackage":"com.myapp.test"
+  },
+  {
+    "title":"App N2",
+    "ImageLink":"https://aroundsketch.github.io/Apple-App-Icons/App%20Icon/Apple/AppStore/@PNG.png",
+    "AppPackage":"com.myapp.Myapp"
+  }  ,
+  {
+    "title":"App N3",
+    "ImageLink":"https://99designs-blog.imgix.net/blog/wp-content/uploads/2017/12/rainbow-app-icon.png?auto=format&q=60&fit=max&w=930",
+    "AppPackage":"com.myapp.n3"
+  }  
+,  {
+    "title":"App N4",
+    "ImageLink":"https://99designs-blog.imgix.net/blog/wp-content/uploads/2017/04/attachment_50177319-e1492539710239.png?auto=format&q=60&fit=max&w=930",
+    "AppPackage":"com.myapp.n4"
+  }  
+  ]
 }
